@@ -34,7 +34,7 @@
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.0-preview.6.25358.103" />
     <PackageReference Include="ModelContextProtocol" Version="0.4.0-preview.2" />
     <PackageReference Include="Microsoft.Graph" Version="5.42.0" />
-    <PackageReference Include="Azure.Identity" Version="1.10.4" />
+    <PackageReference Include="Azure.Identity" Version="1.11.4" />
     <PackageReference Include="ModelContextProtocol.AspNetCore" Version="0.4.0-preview.2" />
   </ItemGroup>
 
